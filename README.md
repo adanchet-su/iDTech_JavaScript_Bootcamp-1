@@ -1,1 +1,2 @@
 # JavaScript Bootcamp
+This JavaScript Bootcamp consists of ten virtual classes taught by MIT professors. You'll learn about the fundamental concepts of JavaScript and computational thinking. You'll learn the basics of coding and gather all the tools you need until you get more familiar with JavaScript. Functions, arrays, and scopes are some of the keys you will learn. By the end of the bootcamp you will have a collection of projects and assignments which you can save into a profile.
